@@ -1,0 +1,33 @@
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sriracha', cursive; */
+
+header {
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+    font-family: 'Montserrat', sans-serif;
+    list-style-type: none;
+    background-color: grey;
+
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    display: inline;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
