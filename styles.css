@@ -10,11 +10,39 @@ a {
     color: #EF8354;
 }
 
-nav, h1, h2 {
+nav {
+    font-family: 'Courier Prime', monospace;
+    margin: 30px 0;
+}
+
+h1 {
+    font-family: 'Courier Prime', monospace;
+    margin: 30px 0;
+}
+
+h2 {
     font-family: 'Courier Prime', monospace;
 }
 
 p {
     font-family: 'Montserrat', sans-serif;
-    margin: 0 500px;
+    margin: 30px 400px;
 }
+
+div {
+    height: 1000px;
+}
+
+.button {
+    background-color: #4F5D75; /* Green */
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Courier Prime', monospace;
+    margin: 0 auto;
+  }
