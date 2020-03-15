@@ -1,33 +1,20 @@
-/* font-family: 'Raleway', sans-serif;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Sriracha', cursive; */
-
-header {
-    font-family: 'Montserrat', sans-serif;
-}
-
-ul {
-    font-family: 'Montserrat', sans-serif;
-    list-style-type: none;
-    background-color: grey;
-
-}
-
-li {
-    display: inline;
-}
-
-li a {
-    display: inline;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111;
-}
+/* font-family: 'Courier Prime', monospace;
+font-family: 'Montserrat', sans-serif; */
 
 body {
-    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #EF8354;
+}
+
+nav, h1, h2 {
+    font-family: 'Courier Prime', monospace;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 500px;
 }
